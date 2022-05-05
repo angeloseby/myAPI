@@ -20,5 +20,13 @@
          "imgUrl": "https://gumlet.assettype.com/freepressjournal/2022-03/030550d9-1def-47e6-bfaf-90dc4405bb2e/info_info_graphic_2nd_lead_march_3.jpg?format=webp&w=400&dpr=2.6",
          "categoryName": "Wild Life"
         }
+        {
+         "imgUrl": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "categoryName": "Game"
+        }
+        {
+         "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4d845686128681.5d909dad4ddd3.jpg",
+         "categoryName": "Gradient"
+        }
         ]
 }
