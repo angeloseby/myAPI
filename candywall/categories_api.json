@@ -1,0 +1,24 @@
+{
+    "categories":[
+        {
+         "imgUrl": "https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=",
+         "categoryName": "Nature"
+        },
+        {
+         "imgUrl": "https://www.mydomaine.com/thmb/XAFH8Wi4BBHceWeMA-wmJgK5eWA=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__253245__most-beautiful-flowers-253245-1522430144413-main.700x0c-54d089becbe64976827e9ed0461e3f24.jpg",
+         "categoryName": "Flowers"
+        },
+        {
+         "imgUrl": "https://unbumf.com/wp-content/uploads/2018/09/thumb.jpg",
+         "categoryName": "Anime"
+        },
+        {
+         "imgUrl": "https://d1x7zurbps6occ.cloudfront.net/product/xlarge/587591-166585.jpg",
+         "categoryName": "Marvel"
+        },
+        {
+         "imgUrl": "https://gumlet.assettype.com/freepressjournal/2022-03/030550d9-1def-47e6-bfaf-90dc4405bb2e/info_info_graphic_2nd_lead_march_3.jpg?format=webp&w=400&dpr=2.6",
+         "categoryName": "Wild Life"
+        }
+       ]
+}
